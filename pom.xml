@@ -11,7 +11,6 @@
         <module>quick-swagger</module>
         <module>quick-modules</module>
         <module>quick-package-assembly</module>
-        <module>quick-tika</module>
         <module>quick-img2txt</module>
         <module>quick-batch</module>
         <module>quick-rabbitmq</module>
@@ -46,6 +45,20 @@
         <module>quick-monitor-thread</module>
         <module>quick-rest-template</module>
         <module>quick-multi-rabbitmq</module>
+        <module>quick-kafka</module>
+        <module>quick-hbase</module>
+        <module>quick-starter</module>
+        <module>quick-starter-demo</module>
+        <module>quick-mongodb</module>
+        <module>quick-method-evaluate</module>
+        <module>quick-spring-shiro</module>
+        <module>quick-config-server</module>
+        <module>quick-i18n</module>
+        <module>quick-undertow</module>
+        <module>quick-mail</module>
+        <module>quick-graphQL</module>
+        <module>quick-saturn</module>
+        <module>quick-zookeeper</module>
     </modules>
     <packaging>pom</packaging>
     <description>使用springboot框架做的一些例子，做个记录，以后方便即拿即用</description>
